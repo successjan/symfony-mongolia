@@ -1,2 +1,2 @@
 # symfony-mongolia
-Custom php functions, libraries, bundes
+Custom php functions, libraries, bundes for symfony
