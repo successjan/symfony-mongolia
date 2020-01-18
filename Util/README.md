@@ -2,6 +2,7 @@
 
 CustomExcel.php
 
+<?php 
 $columns = array('№', 'Овог', 'Нэр', 'Регистр', 'Төлөв', 'Утас', 'И-мэйл', 'Огноо');
 $excel = new CustomExcel('Харилцагчид', $columns);
 $spreadsheet = $excel->create();
