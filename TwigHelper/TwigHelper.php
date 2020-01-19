@@ -7,11 +7,11 @@ use Twig_Loader_String;
 use Twig_SimpleFunction;
 
 /**
- * Description of CustomTwigHelper
+ * Description of TwigHelper
  *
  * @author Satjan
  */
-class CustomTwigHelper extends Twig_Extension {
+class TwigHelper extends Twig_Extension {
 
     public function getFunctions() {
         return array(
